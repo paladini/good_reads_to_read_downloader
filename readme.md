@@ -3,11 +3,12 @@ Download all books from "to-read" shelf from [GoodReads](http://www.goodreads.co
 
 ## How to use
 
-* Download all the required Python3 modules (`pip3 install -r requirements.txt`).
-* [Get a free *developer key* from GoodReads API](https://www.goodreads.com/api/keys).
-* Get your number ID from GoodReads. In order to do that, go to your profile and get the numeric value from the address bar. For example, the [URL for my profile](https://www.goodreads.com/user/show/51988336-fernando-paladini) gives me the ID `51988336`.
-* In `main.py`, change `<DEVELOPER_KEY>` to the `developer key` you got from Goodreads API and change `<YOUR_DESIRED_ID>` to the number ID you got from your public profile at Goodreads.
-* Run `python3 main.py` and wait a considerable amount of time. All books will be saved to 'downloads/' folder.
+1. Clone this project to your computer or [download a zip from the latest version](https://github.com/paladini/good_reads_to_read_downloader/archive/master.zip).
+2. Install required modules using `pip3 install -r requirements.txt`.
+3. [Get a free *developer key* from GoodReads API](https://www.goodreads.com/api/keys).
+4. Get your number ID from GoodReads. In order to do that, go to your profile and get the numeric value from the address bar. For example, the [URL for my profile](https://www.goodreads.com/user/show/51988336-fernando-paladini) gives me the ID `51988336`.
+5. In `main.py`, change `<DEVELOPER_KEY>` to the `developer key` you got from Goodreads API and change `<YOUR_DESIRED_ID>` to the number ID you got from your public profile at Goodreads.
+6. Run `python3 main.py` and wait a considerable amount of time. All books will be saved to 'downloads/' folder.
 
 ## About
 Developed by Fernando Paladini on May 29, 2016.
