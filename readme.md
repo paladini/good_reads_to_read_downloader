@@ -1,4 +1,4 @@
-# Good Reads "To Read" Downloader
+# GoodReads "To Read" Downloader
 Download all books from "to-read" shelf from [GoodReads](http://www.goodreads.com) to your computer using [Libgen.io](http://libgen.io).
 
 ## How to use
