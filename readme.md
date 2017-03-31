@@ -15,3 +15,16 @@ Developed by Fernando Paladini on May 29, 2016.
 
 ## License
 WTFPL. For more info, check out the license file.
+
+Book:
+{
+	"title": O Mundo assombrado pelos demônios,
+	"identifier": [
+		{ type: "isbn", value: },
+		{ type: "isbn13", value: },
+		{ type: "issn", value: }
+	],
+	
+
+
+}
