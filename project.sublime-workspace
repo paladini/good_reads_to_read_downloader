@@ -1,0 +1,540 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_Cli",
+				"_Client"
+			],
+			[
+				"load",
+				"loadFromStorage"
+			],
+			[
+				"clien",
+				"client_json"
+			],
+			[
+				"cons",
+				"constants"
+			],
+			[
+				"get",
+				"getClient"
+			],
+			[
+				"stora",
+				"storagePath"
+			],
+			[
+				"de",
+				"debug_log"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Fuse/Fuse.sublime-build",
+					""
+				],
+				[
+					"Packages/Fuse/Fuse.sublime-build",
+					"Android"
+				],
+				[
+					"Packages/Fuse/Fuse.sublime-build",
+					"Android build & run"
+				],
+				[
+					"Packages/Fuse/Fuse.sublime-build",
+					"iOS"
+				],
+				[
+					"Packages/Fuse/Fuse.sublime-build",
+					"iOS build & run"
+				],
+				[
+					"Packages/Fuse/Fuse.sublime-build",
+					".NET"
+				],
+				[
+					"Packages/Fuse/Fuse.sublime-build",
+					".NET build & run"
+				],
+				[
+					"Packages/Fuse/Fuse.sublime-build",
+					"WebGL"
+				],
+				[
+					"Packages/Fuse/Fuse.sublime-build",
+					"WebGL build & run"
+				],
+				[
+					"Packages/Fuse/Fuse.sublime-build",
+					"C++ (MSVC)"
+				],
+				[
+					"Packages/Fuse/Fuse.sublime-build",
+					"C++ (MSVC) build & run"
+				],
+				[
+					"Packages/Fuse/Fuse.sublime-build",
+					"C++ (CMake)"
+				],
+				[
+					"Packages/Fuse/Fuse.sublime-build",
+					"C++ (CMake) build & run"
+				]
+			],
+			[
+				"Packages/Fuse/Fuse.sublime-build",
+				"Android"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 325.0,
+		"last_filter": "git comm",
+		"selected_items":
+		[
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"python",
+				"Build With: Python"
+			],
+			[
+				"git ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"fuse",
+				"Fuse: Preview Local"
+			],
+			[
+				"Package Control: sear",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Fuse",
+				"Build With: Fuse - Android"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 197.0,
+		"history":
+		[
+			"fuse"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/good_reads_to_read_downloader"
+	],
+	"file_history":
+	[
+		"/D/paladini/Google Drive/permsathesis/tests/eggnog_revolutionary_approach/data/from_eggnog/p16_cluster90.emapper.annotations",
+		"/D/paladini/Google Drive/permsathesis/tests/mg_rast_submit_approach/data/contig_P17/by_feature/SwissProt/mgm4754697.3",
+		"/D/paladini/Google Drive/permsathesis/tests/mg_rast_submit_approach/data/contig_P17/by_feature/GenBank/mgm4754697.3",
+		"/D/query_seqs.fa.emapper.annotations",
+		"/D/42/by_users/proximos/baars_related/importantes/log.1.txt",
+		"/D/42/by_users/proximos/baars_related/importantes/Hacking servers by Lord dred.txt",
+		"/D/42/by_users/proximos/baars_related/importantes/Hacking .mil and .gov sites!.txt",
+		"/D/42/by_users/proximos/baars_related/rascunho.txt",
+		"/D/42/by_users/proximos/baars_related/asdosdsd.xml",
+		"/D/paladini/Google Drive/permsathesis/.gitignore",
+		"/D/42/by_users/proximos/kanjise_related/fifys/Edmilson/Backup 2/Área D/Backup 17.03.13/OS (C)/@Edmilson/Backup Pen Drive/Backup Note/Edmilson/senha rede doméstica.txt",
+		"/D/42/by_users/proximos/kanjise_related/fifys/Edmilson/Backup 2/Área D/Backup 17.03.13/OS (C)/@Edmilson/@Particular/senha rede doméstica.txt",
+		"/D/42/by_users/proximos/kanjise_related/fifys/detalhes.txt",
+		"/D/paladini/Google Drive/permsathesis/prepare.sh",
+		"/C/Users/Fernando Paladini/AppData/Local/Temp/Rar$DIa0.151/localhost.sql",
+		"/D/42/by_users/proximos/kanjise_related/k/Miscelânea/2016_02.24.txt",
+		"/H/md5sum.txt",
+		"/D/paladini/Documents/intelio_1doc/old/chat_intelio_com_br",
+		"/D/paladini/Documents/intelio_1doc/old/dump_mattermost.sql",
+		"/D/paladini/Documents/intelio_1doc/old/analyse.out",
+		"/D/42/unexplored/backup_old/test.py",
+		"/D/42/unexplored/backup_old/keyrings/.gnome/apps/chrome-aohghmighlieiainnegkcijnfilokake-Profile_1.desktop",
+		"/D/brave_wallet_recovery.txt",
+		"/D/PrestadoresNFS-e.txt",
+		"/D/pax_global_header",
+		"/D/download",
+		"/D/paladini/Downloads/search_all.sh",
+		"/D/paladini/Downloads/Backup-codes-fnpaladini.txt",
+		"/D/paladini/Downloads/testing_awesome.out",
+		"/D/paladini/Google Drive/permsathesis/tests/eggnog_revolutionary_approach/scripts/append_fnn_to_eggnog_annotations.py",
+		"/D/paladini/Downloads/SMF.ini",
+		"/D/paladini/Downloads/error_log",
+		"/C/Users/Fernando Paladini/AppData/Local/Temp/Rar$DIa0.714/lote1.sql",
+		"/D/42/by_project/users/proximos/kopasd_related/old_fernando/Aurous/README.md",
+		"/C/Users/Fernando Paladini/AppData/Local/Temp/Rar$DIa0.890/Autofill.json",
+		"/C/Users/Fernando Paladini/AppData/Local/Temp/Rar$DIa0.618/dump_post",
+		"/D/paladini/Documents/Desktop/ktr/12-lista.ktr",
+		"/D/paladini/Documents/Desktop/1doc_clients.json.txt",
+		"/D/paladini/Documents/Desktop/fiffis/detalhes.txt",
+		"/C/Users/Fernando Paladini/AppData/Local/Temp/Rar$DIa0.098/README.md",
+		"/C/misc/changes.diff",
+		"/D/paladini/Documents/Backups/old_fernando/nsfw/config",
+		"/D/paladini/Documents/Desktop/git/funcionando_cadastro_futebol_sc_dados",
+		"/G/ftconfig.ini",
+		"/D/paladini/Documents/Desktop/ktr/13-lista-usuario.ktr",
+		"/D/paladini/Documents/Desktop/git/1doc_clients.json.txt",
+		"/D/paladini/Documents/Desktop/funcionando_cadastro_futebol_sc_dados",
+		"/F/temp/lsp2.txt",
+		"/D/theio-fuse/.gitignore",
+		"/D/theio-fuse/Pages/Welcome.ux",
+		"/D/theio-fuse/theio.unoproj",
+		"/D/theio-fuse/MainView.ux",
+		"/D/theio-fuse/Components/theio.Link.ux",
+		"/D/theio-fuse/Components/theio.VeganHamburger.ux",
+		"/D/theio-fuse/readme.md",
+		"/D/theio-fuse/devices.json",
+		"/D/theio-fuse/Components/theio.Page.ux",
+		"/D/theio-fuse/Components/theio.Button.ux",
+		"/D/theio-fuse/Components/theio.LoadingPanel.ux",
+		"/D/theio-fuse/Components/theio.WelcomeItem.ux",
+		"/D/theio-fuse/Modules/theio.Constants.js",
+		"/D/theio-fuse/Modules/theio.Context.js",
+		"/C/Users/Fernando Paladini/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/Default (Windows).sublime-keymap",
+		"/C/Users/Fernando Paladini/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/D/paladini/Google Drive/permsathesis/tests/eggnog_revolutionary_approach/data/original_data/contig_p16-out.gff",
+		"/D/paladini/Google Drive/permsathesis/tests/mg_rast_submit_approach/readme.md",
+		"/D/paladini/Google Drive/permsathesis/tests/eggnog_revolutionary_approach/requirements.txt",
+		"/D/paladini/Google Drive/permsathesis/data/desktop.ini",
+		"/D/paladini/Google Drive/permsathesis/tests/eggnog_revolutionary_approach/data/all_available_from_eggnog/p16_cluster90.emapper.annotations",
+		"/D/paladini/Google Drive/permsathesis/tests/eggnog_revolutionary_approach/scripts",
+		"/D/paladini/Google Drive/permsathesis/tests/eggnog_revolutionary_approach/p16_cluster90.emapper.annotations",
+		"/D/paladini/Google Drive/permsathesis/tests/eggnog_revolutionary_approach/data/P13_cluster90",
+		"/D/paladini/Desktop/p16_cluster90.emapper.annotations",
+		"/D/paladini/Desktop/query_seqs.fa",
+		"/D/paladini/Desktop/p16_cluster90.emapper.seed_orthologs",
+		"/D/paladini/Google Drive/permsathesis/data/step1/contig_B2-out.ffn",
+		"/D/paladini/Google Drive/permsathesis/data/step1/contig_B2-out.gff",
+		"/D/paladini/Google Drive/permsathesis/data/step1/contig_B2-out.faa",
+		"/D/paladini/Google Drive/permsathesis/data/step1/contig_P13-out.ffn",
+		"/D/paladini/Google Drive/permsathesis/data/step1/contig_P13-out.gff",
+		"/D/paladini/Documents/Desktop/old_apsswords_windows.html",
+		"/D/paladini/Google Drive/permsathesis/tests/mg_rast_submit_approach/data/contig_P17/by_feature/RefSeq/mgm4754697.3",
+		"/D/paladini/Google Drive/permsathesis/desktop.ini",
+		"/D/haxm-windows-intel/Release Notes.txt",
+		"/C/Users/Fernando Paladini/AppData/Local/Temp/eM Client temporary files/ozf0e5ov/info.txt",
+		"/D/Fernando Paladini/Documents/intelio_1doc/old/app_chat_mattermost_old_from_paladini/.data_enc/.data/arqs/funcionando_cadastro_futebol_sc_dados",
+		"/D/Fernando Paladini/Downloads/'Coursera",
+		"/D/Fernando Paladini/Documents/Projetos/scripts/test.out",
+		"/D/Fernando Paladini/Documents/Projetos/scripts/Senhas.txt",
+		"/D/theio-fuse/Components/theio.Loading.ux",
+		"/D/theio-fuse/Modules/theio.Client.js",
+		"/D/Fernando Paladini/Downloads/New folder/readme.txt",
+		"/E/Users/silvio/AppData/Local/Microsoft/Internet Explorer/brndlog.txt",
+		"/E/Users/silvio/AppData/Local/Microsoft/Internet Explorer/Recovery/High/Last Active/{79F5E8A0-1687-11E3-A231-6CF049F6B6CE}.dat",
+		"/E/Users/silvio/AppData/Local/Microsoft/Internet Explorer/IECompatData/iecompatdata.xml",
+		"/E/Users/silvio/AppData/Local/Microsoft/Windows Mail/account{4B5D3B29-78EE-48F7-BE5E-99B17869FDFC}.oeaccount",
+		"/E/Users/silvio/AppData/Local/Microsoft/Windows Mail/account{9365539A-3690-4A9D-B6B0-F524D5EFFE54}.oeaccount",
+		"/E/Users/silvio/AppData/Local/Microsoft/Windows Mail/oeold.xml",
+		"/E/Users/silvio/AppData/Local/Microsoft/Windows Mail/Backup/new/WindowsMail.pat",
+		"/E/Users/silvio/AppData/Local/Microsoft/Windows Mail/Backup/new/WindowsMail.MSMessageStore",
+		"/E/Users/silvio/AppData/Local/Microsoft/Messenger/ContactsLog.txt",
+		"/E/Users/silvio/AppData/Local/Microsoft/Messenger/salmisady@hotmail.com/config.cache.xml",
+		"/D/theio-fuse/Modules/theio.InternalMenu.js",
+		"/C/Users/Fernando Paladini/AppData/Roaming/Sublime Text 3/Packages/User/Fuse.sublime-settings",
+		"/C/Users/Fernando Paladini/AppData/Roaming/Sublime Text 3/Packages/Fuse/README.md",
+		"/C/Users/Fernando Paladini/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Fernando Paladini/AppData/Roaming/Sublime Text 3/Packages/Fuse/Fuse.sublime-settings",
+		"/C/Users/Fernando Paladini/AppData/Roaming/Sublime Text 3/Packages/Fuse/UserGuide.txt",
+		"/C/Users/Fernando Paladini/AppData/Roaming/Sublime Text 3/Packages/Fuse/CHANGELOG.md",
+		"/C/Users/Fernando Paladini/AppData/Local/Temp/7zO4286B128/pack.sh",
+		"/C/Users/Fernando Paladini/AppData/Local/Temp/7zO4283A198/build.sh",
+		"/D/theio-fuse/Pages/PreUse.ux",
+		"/D/theio-fuse/Pages/Login.ux",
+		"/D/theio-fuse/Pages/Login.js",
+		"/D/theio-fuse/Pages/Welcome.js",
+		"/D/theio-fuse/Modules/theio.Session.js",
+		"/C/Users/Fernando Paladini/Google Drive/permsathesis/kanjise-thesis/dev/readme_pt.md",
+		"/C/Users/Fernando Paladini/Google Drive/permsathesis/kanjise-thesis/FragGeneScan/.gitignore",
+		"/C/Users/Fernando Paladini/Google Drive/permsathesis/kanjise-thesis/readme.md",
+		"/C/Users/Fernando Paladini/Google Drive/permsathesis/kanjise-thesis/readme_pt.md",
+		"/C/Users/Fernando Paladini/Google Drive/permsathesis/kanjise-thesis/scripts/run_fraggenescan_for_all.sh",
+		"/C/Users/Fernando Paladini/Google Drive/permsathesis/kanjise-thesis/output/contig_P14-out.faa",
+		"/C/Users/Fernando Paladini/Google Drive/permsathesis/kanjise-thesis/test.py",
+		"/C/Users/Fernando Paladini/Google Drive/permsathesis/kanjise-thesis/output/contig_P14-out.out",
+		"/C/Users/Fernando Paladini/Google Drive/permsathesis/readme.txt",
+		"/C/Users/Fernando Paladini/Google Drive/PermaThesis - Mestrado Kanjise/kanjise-thesis/my_annotations.txt",
+		"/C/Users/Fernando Paladini/Google Drive/PermaThesis - Mestrado Kanjise/kanjise-thesis/test.py",
+		"/C/Users/Fernando Paladini/Google Drive/PermaThesis - Mestrado Kanjise/kanjise-thesis/readme.md"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+			"<open files>,<open folders>",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tulio.baars.meira",
+			"skype",
+			"linkedin",
+			"beatriz",
+			"bia_khey",
+			"ia_khey@hotmail.com",
+			"senha",
+			"password",
+			"passwor",
+			"senha",
+			"passw",
+			"sc.gov.br",
+			"7701",
+			"jean",
+			"hotma",
+			"@hotm",
+			"acc",
+			"log",
+			"pass",
+			"hotmai",
+			"app3",
+			"errorMessage",
+			"client",
+			"setClient",
+			"getClient",
+			"current_client",
+			"_Session",
+			"_Client",
+			"pre",
+			"Pre",
+			"_ClientHandler",
+			"_Client",
+			"_Cons",
+			"JSON",
+			"constants",
+			"redir para",
+			"getClient",
+			"hasStored",
+			"setClient",
+			"_Client",
+			"preuse",
+			"slug",
+			"setClient",
+			"setClie",
+			"_Cons",
+			"_Constants",
+			"_Cons",
+			"_Constants",
+			"_Constant",
+			"_Constants",
+			"getClient",
+			"slug",
+			"Client",
+			"_ClientHandler",
+			"JSON.",
+			"clientHandler",
+			"bucket_name",
+			"preUse",
+			"Constant",
+			"_Client",
+			"pass",
+			"tulio",
+			"passwor",
+			"pass",
+			"token",
+			"session",
+			"se",
+			"hikes",
+			"hi",
+			"_Context",
+			"_Constants",
+			"Client3",
+			"session",
+			"couldn't get session",
+			"gu",
+			"seconds",
+			"password",
+			"db",
+			"user",
+			"pass",
+			"nando",
+			"pala",
+			"pal",
+			"Fer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"session",
+			"setSession",
+			"getSession",
+			"current_session"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.FuseBuildResults":
+	{
+		"height": 114.0
+	},
+	"output.exec":
+	{
+		"height": 190.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 495.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
