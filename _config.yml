@@ -1,7 +1,7 @@
 # Meta data
-name:         Photon
-authors:      Connor Sears
-description:  Build desktop apps with simple HTML and CSS components.
+name:         GoodToRead Downloader
+authors:      Fernando Paladini
+description:  Download all your desired books directly from GoodReads or Facebook list.
 
 # Dependencies
 highlighter:  rouge
